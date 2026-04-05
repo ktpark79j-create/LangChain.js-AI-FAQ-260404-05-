@@ -1,7 +1,7 @@
 Langchain.js 기반 AI 쳇봇 에이전트 만들기 (260404-05) 교육자료 
 
 - notion 파일도 참고하기
- 
+ 수업자료md 파일 보고 번호순서대로 파일생성 후 실행하고 server.ts 를 통해 웹통신 및 Client.html 연결
 
 방법
 해당파일 압축풀고 VS code 에서 실행 
