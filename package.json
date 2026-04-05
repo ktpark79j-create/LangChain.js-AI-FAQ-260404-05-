@@ -1,0 +1,30 @@
+{
+  "name": "langchain_dev",
+  "version": "1.0.0",
+  "description": "langchianAI",
+  "license": "ISC",
+  "author": "ktpark79j@gmail.com",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@langchain/community": "^1.1.27",
+    "@langchain/core": "^1.1.38",
+    "@langchain/openai": "^1.4.1",
+    "@langchain/tavily": "^1.2.0",
+    "cheerio": "^1.2.0",
+    "chromadb": "^3.3.3",
+    "chromadb-default-embed": "^2.14.0",
+    "cors": "^2.8.6",
+    "d3-dsv": "^3.0.1",
+    "dotenv": "^16.4.5",
+    "express": "^5.2.1",
+    "faiss-node": "^0.5.1",
+    "langchain": "^1.2.39",
+    "mathjs": "^15.1.1",
+    "pdf-parse": "^1.1.4",
+    "zod": "^3.23.8"
+  }
+}
